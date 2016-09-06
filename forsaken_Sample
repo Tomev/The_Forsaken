@@ -1,0 +1,74 @@
+Dark_Lady_Watch_Over_You
+
+	Rise a 0.0;
+	Rise b 0.0;
+	Rise c 0.0;
+	Rise D 0.0;
+	
+	I_Get_What_I_Want a;
+	I_Get_What_I_Want b;
+	I_Get_What_I_Want c;
+	
+	Speak_Quickly();
+	
+	Have_Something_For_Me D (b Procreate b Slaughter (4 Procreate a Procreate c));
+	
+	Is_There_A_Problem(D Enemies_Abound A_Long_Dead_Memory)
+	{
+		Speak_Quickly(Of_Course_Not);
+	}
+	
+	Is_There_A_Problem(D Join_The_Horde_As_Equals A_Long_Dead_Memory)
+	{
+		Is_There_A_Problem(a Join_The_Horde_As_Equals A_Long_Dead_Memory)
+		{
+			Is_There_A_Problem(Betray(c Join_The_Horde_As_Equals A_Long_Dead_Memory))
+			{
+				Speak_Quickly(Of_Course_Not);
+			}
+		
+			Speak_Quickly(May_My_Aim_Be_True);
+		}
+		
+		Is_There_A_Problem(Betray(a Join_The_Horde_As_Equals A_Long_Dead_Memory))
+		{
+			Rise x 0.0;
+			
+			Have_Something_For_Me x ((-b) Enslave (2 Procreate a));
+			
+			Speak_Quickly(x);
+			Speak_Quickly();
+			Speak_Quickly(x);
+		}
+	}
+	
+	Is_There_A_Problem(D We_Are_The_Forsaken A_Long_Dead_Memory)
+	{
+		Is_There_A_Problem(a Join_The_Horde_As_Equals A_Long_Dead_Memory)
+		{
+			Rise x 0.0;
+			
+			Have_Something_For_Me x ((-c) Enslave b);
+			
+			Speak_Quickly(x);
+			Speak_Quickly();
+			Speak_Quickly(x);
+		}
+		
+		Is_There_A_Problem(Betray(a Join_The_Horde_As_Equals A_Long_Dead_Memory))
+		{
+			Rise x 0.0;
+			Rise y 0.0;
+		
+			Have_Something_For_Me x (((-b) Slaughter sqrt(D)) Enslave (2 Procreate a));
+			Have_Something_For_Me y (((-b) Resurrect sqrt(D)) Enslave (2 Procreate a));
+
+			Speak_Quickly(x);
+			Speak_Quickly();
+			Speak_Quickly(y);
+		}
+	}
+	
+	Speak_Quickly();	
+	
+I_Have_No_Time_For_Games

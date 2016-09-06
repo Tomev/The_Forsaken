@@ -1,0 +1,17 @@
+#define MINUS 1
+#define IF 2
+#define WHILE 3
+#define INPUT 4
+#define PRINT 5
+#define INTEGER 6
+#define OP1 7
+#define OP2 8
+#define VAR 9
+#define OPENPARENTHESIS 10
+#define CLOSEPARENTHESIS 11
+#define SEMICOLON 12
+#define NUL 13
+#define FORSAKEN_BEGIN 14
+#define FORSAKEN_END 15
+#define OPENBRACES 16
+#define CLOSEBRACES 17
